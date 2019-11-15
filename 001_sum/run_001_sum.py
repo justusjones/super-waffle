@@ -4,4 +4,4 @@ def calculate_sum(number_list):
     Arguments:
     number_list -- a list of numbers (ints, floats)
     """
-    return sum(number_list)
+    return 0
