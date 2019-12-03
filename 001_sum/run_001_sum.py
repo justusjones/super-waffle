@@ -1,7 +1,7 @@
 def calculate_sum(number_list):
-    """return the calculated sum of a list of numbers
+    x = 0
 
-    Arguments:
-    number_list -- a list of numbers (ints, floats)
-    """
-    return 0
+    for i in number_list:
+        x = x + i
+        print(x)
+    return x
